@@ -39,11 +39,7 @@ background:linear-gradient(red,blue);
 <br><br><br><br><br><br><br>
 
 <form>
-<table style="item-align:center;"  cellspacing="20">
-<tr>
-<td>First Name</td>
-<td><input type="text" placeholder="First Name" name="fname" required></td>
-</tr>
+
 
 <tr>
 <td>Last Name</td>
