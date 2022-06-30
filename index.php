@@ -17,13 +17,7 @@
 
     </head>
 
-    <body class="body">
-
-        <div class="h1"> <?php echo  "<h1> the sondigala </h1>"  ?> </div>
-        
-        <?php echo "<p> hi guys i am the kaal how are you bhosdivalo</p>" ?>
-
-    </body>
+    
 
 
 </html>
